@@ -25,7 +25,7 @@ SECRET_KEY = '+@z_vk^1*hb%t#e@_)7iiquip3ydgxtnp#7%g&ggeha1ow++(x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<roblaz>.pythonanywhere.com']
+ALLOWED_HOSTS = ['roblaz.pythonanywhere.com']
 
 
 # Application definition
